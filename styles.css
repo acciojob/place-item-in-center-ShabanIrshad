@@ -1,2 +1,22 @@
+.holder{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	width:100vw;
+	height:100vh;
+	border:1px solid red;
+}
+.item-1{
+	
+	background-color:red;
+	width:100px;
+	height:100px;
+	
+}
 
-/* Your CSS Code here. */
+
+
+
+
+
+
